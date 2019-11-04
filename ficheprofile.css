@@ -1,0 +1,55 @@
+body{
+    font-family: sans-serif;
+    color: blue;
+    background-color: rgb(233, 196, 76);
+    
+
+}
+.profile{
+    widows: 400px;
+    margin: auto;
+    background: rgb(229, 229, 245);
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.5);
+
+}
+
+.image{
+    position: relative;
+    background-color: rgb(233, 196, 76);
+    background-image: url(code2.gif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: space;
+    border-radius: 5px;;
+    
+}
+.moi{
+
+    border-radius: 5px;
+    box-shadow: 10px 5px 5px rgb(138, 130, 175);
+}
+.info{
+    color: seagreen;
+    margin-right: 16px;
+}
+.container{
+    padding: 20px;
+}
+.skill-bar{
+    background-color: rgb(102, 113, 173);
+    border-radius: 16px;
+}
+.progress-bar{
+    padding: 0.1em 16px;
+    border-radius: 16px;
+    text-align: center;
+    color: white;
+    background-color: violet;
+    
+}
+h3{
+    font-size: 20px;
+}
+h2{
+    color: rgb(90, 235, 114);
+}
